@@ -19,13 +19,13 @@ DOMAIN="vpn.khaledagn.com"
 PROTOCOL="udp"
 
 # UDP PORT
-UDP_PORT=":36712"
+UDP_PORT=":20000-50000"
 
 # OBFS
 OBFS="mayapro"
 
 # PASSWORDS
-PASSWORD="mayapro"
+PASSWORD="mayaproz"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
@@ -875,22 +875,22 @@ perform_install() {
 					    start_services
 						if [[ -n "$_is_frash_install" ]]; then
 							echo
-							echo -e "$(tbold)Congratulation! masolutions-UDP has been successfully installed on your server.$(treset)"
+							echo -e "$(tbold)Congratulation! AGN-UDP has been successfully installed on your server.$(treset)"
 							echo
 							echo -e "$(tbold)Client app AGN INJECTOR:$(treset)"
 							echo -e "$(tblue)https://play.google.com/store/apps/details?id=com.agn.injector$(treset)"
 							echo
 							echo -e "Follow me!"
 							echo
-							echo -e "\t+ Check out my website at $(tblue)https://www.m-a-solutions.com$(treset)"
-							echo -e "\t+ Join me on Telegram: $(tblue)https://t.me/gain_naijja$(treset)"
-							echo -e "\t+ Follow me on Facebook: $(tblue)https://facebook.com/$(treset)"
+							echo -e "\t+ Check out my website at $(tblue)https://www.khaledagn.com$(treset)"
+							echo -e "\t+ Follow me on Telegram: $(tblue)https://t.me/khaledagn$(treset)"
+							echo -e "\t+ Follow me on Facebook: $(tblue)https://facebook.com/itskhaledagn$(treset)"
 							echo
 							else
 								restart_running_services
 								start_services
 								echo
-								echo -e "$(tbold)masolutions-UDP has been successfully update to $VERSION.$(treset)"
+								echo -e "$(tbold)AGN-UDP has been successfully update to $VERSION.$(treset)"
 								echo
 								fi
 }
