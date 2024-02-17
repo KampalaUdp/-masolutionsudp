@@ -19,7 +19,7 @@ DOMAIN="vpn.khaledagn.com"
 PROTOCOL="udp"
 
 # UDP PORT
-UDP_PORT=":20000-50000"
+UDP_PORT=":50000"
 
 # OBFS
 OBFS="mayapro"
