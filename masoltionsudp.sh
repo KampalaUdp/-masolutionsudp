@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":50000"
 
 # OBFS
-OBFS="mayaloop"
+OBFS="mayalove"
 
 # PASSWORDS
-PASSWORD="mayaloop"
+PASSWORD="mayalove"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
