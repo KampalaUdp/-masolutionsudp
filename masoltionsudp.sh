@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":50000"
 
 # OBFS
-OBFS="mayatunnel"
+OBFS="mayaloop"
 
 # PASSWORDS
-PASSWORD="mayatunnelz"
+PASSWORD="mayaloop"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
