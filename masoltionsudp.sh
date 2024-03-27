@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":50000"
 
 # OBFS
-OBFS="beeudp."
+OBFS="mayamax."
 
 # PASSWORDS
-PASSWORD="beeudp."
+PASSWORD="mayamax."
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
