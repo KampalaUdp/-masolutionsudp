@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":50000"
 
 # OBFS
-OBFS="droidmax."
+OBFS="xxxxx."
 
 # PASSWORDS
-PASSWORD="droidmax."
+PASSWORD="xxxxx."
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
