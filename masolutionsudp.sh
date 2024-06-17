@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":50000"
 
 # OBFS
-OBFS="shaban."
+OBFS="youngdev."
 
 # PASSWORDS
-PASSWORD="shaban."
+PASSWORD="youngdev."
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
