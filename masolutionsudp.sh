@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":50000"
 
 # OBFS
-OBFS="youngdevz."
+OBFS="prince."
 
 # PASSWORDS
-PASSWORD="youngdevz."
+PASSWORD=".udpsecret"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
