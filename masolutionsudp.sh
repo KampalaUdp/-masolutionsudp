@@ -25,7 +25,7 @@ UDP_PORT=":50000"
 OBFS="prince."
 
 # PASSWORDS
-PASSWORD=".udpsecret"
+PASSWORD="noobdevz"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
