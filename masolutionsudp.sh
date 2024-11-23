@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":50000"
 
 # OBFS
-OBFS="prince."
+OBFS=".@noobdev."
 
 # PASSWORDS
-PASSWORD="noobdevz"
+PASSWORD=".24@noobdev"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
