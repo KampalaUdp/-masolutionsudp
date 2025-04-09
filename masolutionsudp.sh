@@ -22,7 +22,7 @@ PROTOCOL="udp"
 UDP_PORT=":50000"
 
 # OBFS
-OBFS="photo"
+OBFS="kobe"
 
 # PASSWORDS
 PASSWORD="8fat4bggfcxi:eiv2eyequq"
